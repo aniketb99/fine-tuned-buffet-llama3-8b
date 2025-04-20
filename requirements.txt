@@ -2,3 +2,4 @@ streamlit
 transformers
 peft
 torch
+bitsandbytes
